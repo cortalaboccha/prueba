@@ -1,0 +1,10 @@
+gabriel cortacans
+
+
+
+
+
+ Nombre, Ampellido y Cedula
+         Detallar los pasos que utilizaría para:
+         En el caso de que se cree una nueva funcionalidad de parte de desarrollo (ejemplo desarrollo cambia el código)
+         y esto deberá ser finalmente desplegado en producción (por lo que deberá detallar los pasos que se siguen para lorgar este fin)
